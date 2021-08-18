@@ -1,4 +1,4 @@
-### 7.6_writing_own_-terraform_modules </br>
+### 7.6_writing_own_terraform_modules </br>
 ====================================== </br>
 Задача 1 </br>
 1) data_source и source_aws расположены в папке aws: [link](https://github.com/hashicorp/terraform-provider-aws/tree/main/aws) </br>
